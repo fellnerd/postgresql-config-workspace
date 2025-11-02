@@ -4,4 +4,8 @@
 #  VARIABLE2 = 'any value!'
 # I. e. you need to enclose any value which does not only consist of letters,
 # numbers, and '-', '_', '.' in single quotes. Shell commands are not
+<<<<<<< HEAD
 # evaluated.
+=======
+# evaluated.
+>>>>>>> 6ae09672d03f294f7220838af374af7f8dae4802
